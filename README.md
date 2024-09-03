@@ -1,6 +1,6 @@
 - **👋 Hi, I’m Phung Huy Quang.**
 - 👀 I’m interested in **Reading and Coding.**
-- 🌱 I’m currently learning **Information Technology**
+- 🌱 I’m currently learning **Information Technology** at **IU-HCMC**
 - 📫 How to reach me **huyquang1250@gmail.com**
 
 <!---
