@@ -1,4 +1,4 @@
-class thermostat {
+class Thermostat {
     private float currentTemp; // current temperature
     private float desiredTemp; // desired temperature
 
